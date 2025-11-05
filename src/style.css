@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.page {
+  margin: none;
+  padding: none;
+  background-image: linear-gradient(to bottom, white, black);
+  height: 100vh;
+}
